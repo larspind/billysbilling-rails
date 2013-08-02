@@ -11,7 +11,8 @@ module BillysBilling
       "payment",
       "product",
       "vat_model",
-      "account"
+      "account",
+      "daybook_transaction"
     ]
     
     VALID_ACTIONS = [
